@@ -1,3 +1,7 @@
+## Team
+Tomo Umer - https://github.com/tomoumer
+Monica Weiss-Sharp - https://github.com/MWeissSharp
+
 ## The Advanced Computing Center for Research and Education
 
 The Advanced Computing Center for Research and Education (ACCRE) is a computer cluster serving the high-performance computing needs of research for Vanderbilt University. In this data question, you will be analyzing data on jobs run on ACCRE's hardware.
